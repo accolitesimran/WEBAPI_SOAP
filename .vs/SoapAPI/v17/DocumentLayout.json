@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\simran.k_INT1588\\source\\repos\\SoapAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C17CEBF-BAFF-4215-94BD-FCFA01AF913D}|SoapAPI\\SoapAPI.csproj|c:\\users\\simran.k_int1588\\source\\repos\\soapapi\\soapapi\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C17CEBF-BAFF-4215-94BD-FCFA01AF913D}|SoapAPI\\SoapAPI.csproj|solutionrelative:soapapi\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C17CEBF-BAFF-4215-94BD-FCFA01AF913D}|SoapAPI\\SoapAPI.csproj|c:\\users\\simran.k_int1588\\source\\repos\\soapapi\\soapapi\\models\\input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C17CEBF-BAFF-4215-94BD-FCFA01AF913D}|SoapAPI\\SoapAPI.csproj|solutionrelative:soapapi\\models\\input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C17CEBF-BAFF-4215-94BD-FCFA01AF913D}|SoapAPI\\SoapAPI.csproj|c:\\users\\simran.k_int1588\\source\\repos\\soapapi\\soapapi\\models\\output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C17CEBF-BAFF-4215-94BD-FCFA01AF913D}|SoapAPI\\SoapAPI.csproj|solutionrelative:soapapi\\models\\output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C17CEBF-BAFF-4215-94BD-FCFA01AF913D}|SoapAPI\\SoapAPI.csproj|c:\\users\\simran.k_int1588\\source\\repos\\soapapi\\soapapi\\service\\calculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C17CEBF-BAFF-4215-94BD-FCFA01AF913D}|SoapAPI\\SoapAPI.csproj|solutionrelative:soapapi\\service\\calculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C17CEBF-BAFF-4215-94BD-FCFA01AF913D}|SoapAPI\\SoapAPI.csproj|c:\\users\\simran.k_int1588\\source\\repos\\soapapi\\soapapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C17CEBF-BAFF-4215-94BD-FCFA01AF913D}|SoapAPI\\SoapAPI.csproj|solutionrelative:soapapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C17CEBF-BAFF-4215-94BD-FCFA01AF913D}|SoapAPI\\SoapAPI.csproj|c:\\users\\simran.k_int1588\\source\\repos\\soapapi\\soapapi\\connected services\\servicereference1\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C17CEBF-BAFF-4215-94BD-FCFA01AF913D}|SoapAPI\\SoapAPI.csproj|solutionrelative:soapapi\\connected services\\servicereference1\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C17CEBF-BAFF-4215-94BD-FCFA01AF913D}|SoapAPI\\SoapAPI.csproj|c:\\users\\simran.k_int1588\\source\\repos\\soapapi\\soapapi\\service\\icalculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C17CEBF-BAFF-4215-94BD-FCFA01AF913D}|SoapAPI\\SoapAPI.csproj|solutionrelative:soapapi\\service\\icalculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C17CEBF-BAFF-4215-94BD-FCFA01AF913D}|SoapAPI\\SoapAPI.csproj|c:\\users\\simran.k_int1588\\source\\repos\\soapapi\\soapapi\\soapapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6C17CEBF-BAFF-4215-94BD-FCFA01AF913D}|SoapAPI\\SoapAPI.csproj|solutionrelative:soapapi\\soapapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Output.cs",
+              "DocumentMoniker": "C:\\Users\\simran.k_INT1588\\source\\repos\\SoapAPI\\SoapAPI\\Models\\Output.cs",
+              "RelativeDocumentMoniker": "SoapAPI\\Models\\Output.cs",
+              "ToolTip": "C:\\Users\\simran.k_INT1588\\source\\repos\\SoapAPI\\SoapAPI\\Models\\Output.cs",
+              "RelativeToolTip": "SoapAPI\\Models\\Output.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T05:52:24.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorController.cs",
+              "DocumentMoniker": "C:\\Users\\simran.k_INT1588\\source\\repos\\SoapAPI\\SoapAPI\\Controllers\\CalculatorController.cs",
+              "RelativeDocumentMoniker": "SoapAPI\\Controllers\\CalculatorController.cs",
+              "ToolTip": "C:\\Users\\simran.k_INT1588\\source\\repos\\SoapAPI\\SoapAPI\\Controllers\\CalculatorController.cs",
+              "RelativeToolTip": "SoapAPI\\Controllers\\CalculatorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T05:18:53.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICalculatorService.cs",
+              "DocumentMoniker": "C:\\Users\\simran.k_INT1588\\source\\repos\\SoapAPI\\SoapAPI\\Service\\ICalculatorService.cs",
+              "RelativeDocumentMoniker": "SoapAPI\\Service\\ICalculatorService.cs",
+              "ToolTip": "C:\\Users\\simran.k_INT1588\\source\\repos\\SoapAPI\\SoapAPI\\Service\\ICalculatorService.cs",
+              "RelativeToolTip": "SoapAPI\\Service\\ICalculatorService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAcwBAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T04:59:38.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SoapAPI",
+              "DocumentMoniker": "C:\\Users\\simran.k_INT1588\\source\\repos\\SoapAPI\\SoapAPI\\SoapAPI.csproj",
+              "RelativeDocumentMoniker": "SoapAPI\\SoapAPI.csproj",
+              "ToolTip": "C:\\Users\\simran.k_INT1588\\source\\repos\\SoapAPI\\SoapAPI\\SoapAPI.csproj",
+              "RelativeToolTip": "SoapAPI\\SoapAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-23T04:58:35.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\simran.k_INT1588\\source\\repos\\SoapAPI\\SoapAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SoapAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\simran.k_INT1588\\source\\repos\\SoapAPI\\SoapAPI\\Program.cs",
+              "RelativeToolTip": "SoapAPI\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAkwB4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T04:57:00.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Input.cs",
+              "DocumentMoniker": "C:\\Users\\simran.k_INT1588\\source\\repos\\SoapAPI\\SoapAPI\\Models\\Input.cs",
+              "RelativeDocumentMoniker": "SoapAPI\\Models\\Input.cs",
+              "ToolTip": "C:\\Users\\simran.k_INT1588\\source\\repos\\SoapAPI\\SoapAPI\\Models\\Input.cs",
+              "RelativeToolTip": "SoapAPI\\Models\\Input.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T05:04:53.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalculatorService.cs",
+              "DocumentMoniker": "C:\\Users\\simran.k_INT1588\\source\\repos\\SoapAPI\\SoapAPI\\Service\\CalculatorService.cs",
+              "RelativeDocumentMoniker": "SoapAPI\\Service\\CalculatorService.cs",
+              "ToolTip": "C:\\Users\\simran.k_INT1588\\source\\repos\\SoapAPI\\SoapAPI\\Service\\CalculatorService.cs",
+              "RelativeToolTip": "SoapAPI\\Service\\CalculatorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T04:59:55.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Reference.cs",
+              "DocumentMoniker": "C:\\Users\\simran.k_INT1588\\source\\repos\\SoapAPI\\SoapAPI\\Connected Services\\ServiceReference1\\Reference.cs",
+              "RelativeDocumentMoniker": "SoapAPI\\Connected Services\\ServiceReference1\\Reference.cs",
+              "ToolTip": "C:\\Users\\simran.k_INT1588\\source\\repos\\SoapAPI\\SoapAPI\\Connected Services\\ServiceReference1\\Reference.cs",
+              "RelativeToolTip": "SoapAPI\\Connected Services\\ServiceReference1\\Reference.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T05:15:59.952Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
