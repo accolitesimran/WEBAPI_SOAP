@@ -24,7 +24,7 @@ namespace SoapAPI.Controllers
             }
             catch (Exception ex)
             {
-                output.ErrorMessage = ex.Message;
+                output.ErrorMessage = "Exception occured while adding";
                 return output;
             }
         }
@@ -44,7 +44,7 @@ namespace SoapAPI.Controllers
             }
             catch(Exception ex)
             {
-                output.ErrorMessage = ex.Message;
+                output.ErrorMessage = "Exception occured while subtracting";
                 return output;
             }
         }
@@ -63,7 +63,7 @@ namespace SoapAPI.Controllers
             }
             catch(Exception ex)
             {
-                output.ErrorMessage=ex.Message;
+                output.ErrorMessage="Exception occured while multiplying";
                 return output;
             }
         }
@@ -82,7 +82,7 @@ namespace SoapAPI.Controllers
             }
             catch(Exception ex)
             {
-                output.ErrorMessage=ex.Message;
+                output.ErrorMessage="Exception occured while dividing";
                 return output;
             }
             

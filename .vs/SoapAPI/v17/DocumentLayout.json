@@ -54,8 +54,7 @@
               "RelativeToolTip": "SoapAPI\\Models\\Output.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T05:52:24.996Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T05:52:24.996Z"
             },
             {
               "$type": "Document",
@@ -65,7 +64,7 @@
               "RelativeDocumentMoniker": "SoapAPI\\Controllers\\CalculatorController.cs",
               "ToolTip": "C:\\Users\\simran.k_INT1588\\source\\repos\\SoapAPI\\SoapAPI\\Controllers\\CalculatorController.cs",
               "RelativeToolTip": "SoapAPI\\Controllers\\CalculatorController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFQAAAAkAAAA",
+              "ViewState": "AQIAADoAAAAAAAAAAAAuwEMAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-23T05:18:53.826Z",
               "EditorCaption": ""
@@ -80,21 +79,19 @@
               "RelativeToolTip": "SoapAPI\\Service\\ICalculatorService.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAcwBAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T04:59:38.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T04:59:38.28Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "SoapAPI",
+              "Title": "SoapAPI.csproj",
               "DocumentMoniker": "C:\\Users\\simran.k_INT1588\\source\\repos\\SoapAPI\\SoapAPI\\SoapAPI.csproj",
               "RelativeDocumentMoniker": "SoapAPI\\SoapAPI.csproj",
               "ToolTip": "C:\\Users\\simran.k_INT1588\\source\\repos\\SoapAPI\\SoapAPI\\SoapAPI.csproj",
               "RelativeToolTip": "SoapAPI\\SoapAPI.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-23T04:58:35.322Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T04:58:35.322Z"
             },
             {
               "$type": "Document",
@@ -106,8 +103,7 @@
               "RelativeToolTip": "SoapAPI\\Program.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAkwB4AAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T04:57:00.769Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T04:57:00.769Z"
             },
             {
               "$type": "Document",
@@ -119,8 +115,7 @@
               "RelativeToolTip": "SoapAPI\\Models\\Input.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T05:04:53.27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T05:04:53.27Z"
             },
             {
               "$type": "Document",
@@ -132,8 +127,7 @@
               "RelativeToolTip": "SoapAPI\\Service\\CalculatorService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T04:59:55.822Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T04:59:55.822Z"
             },
             {
               "$type": "Document",
@@ -145,8 +139,7 @@
               "RelativeToolTip": "SoapAPI\\Connected Services\\ServiceReference1\\Reference.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T05:15:59.952Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T05:15:59.952Z"
             }
           ]
         }

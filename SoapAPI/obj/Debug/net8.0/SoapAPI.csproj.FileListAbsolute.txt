@@ -115,3 +115,4 @@ C:\Users\simran.k_INT1588\source\repos\SoapAPI\SoapAPI\bin\Debug\net8.0\ru\Syste
 C:\Users\simran.k_INT1588\source\repos\SoapAPI\SoapAPI\bin\Debug\net8.0\tr\System.ServiceModel.Primitives.resources.dll
 C:\Users\simran.k_INT1588\source\repos\SoapAPI\SoapAPI\bin\Debug\net8.0\zh-Hans\System.ServiceModel.Primitives.resources.dll
 C:\Users\simran.k_INT1588\source\repos\SoapAPI\SoapAPI\bin\Debug\net8.0\zh-Hant\System.ServiceModel.Primitives.resources.dll
+C:\Users\simran.k_INT1588\source\repos\SoapAPI\SoapAPI\obj\Debug\net8.0\SoapAPI.sourcelink.json
